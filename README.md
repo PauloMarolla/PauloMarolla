@@ -5,11 +5,9 @@
 
 <p>💻 Sou programador web há mais de 2 anos. Me destaco como Front-End, porém estou buscando ser um desenvolvedor Fullstack Javascript/Typescript. Aprendendo também React Native e Node.JS</p>
 
-<p> 🎨 Também tenho projetos como UI/UX Design, onde vocês podem conferir no meu perfil do dribbble!</p>
+<p> 🎨 Também tenho projetos como UI/UX Design, onde vocês podem conferir no meu perfil do <a href="https://dribbble.com/PauloMarolla">dribbble!<a/></p>
 
 <p> 🤝 já conclui diversos projetos na área, alguns você podem ser vistos nos repositórios, mas muitos são da empresa onde trabalho</p>
-
-<a href="https://dribbble.com/PauloMarolla">dribbble<a/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Marolla-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-marolla-2287b7191/)](https://www.linkedin.com/in/paulo-marolla-2287b7191/) 
