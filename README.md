@@ -9,6 +9,12 @@
 
 <p> 🤝 já conclui diversos projetos na área, alguns você podem ser vistos nos repositórios, mas muitos são da empresa onde trabalho</p>
 
+<div align="center">
+  <a href="https://github.com/gbelliu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomarolla&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarolla&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Marolla-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-marolla-2287b7191/)](https://www.linkedin.com/in/paulo-marolla-2287b7191/) 
 [![HotmailBadge](https://img.shields.io/badge/-paulo.ricardo.marolla@hotmail.com-0078D4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.ricardo.marolla@hotmail.com)](paulo.ricardo.marolla@hotmail.com)
