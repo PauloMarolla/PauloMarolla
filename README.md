@@ -3,7 +3,7 @@
 
 <h4>Sobre</h4>
 
-<p>💻 Sou programador web e me destaco como Front-End, porém estou buscando ser um desenvolvedor Fullstack Javascript/Typescript. Aprendendo também React Native e Node.JS</p>
+<p>💻 Sou programador web fullstack, porém venho me destacando mais no Front-End, ambiente que mais gosto de codar!</p>
 
 <p> 🎨 Também tenho projetos como UI/UX Design, onde vocês podem conferir no meu perfil do <a href="https://dribbble.com/PauloMarolla">dribbble!<a/></p>
 
